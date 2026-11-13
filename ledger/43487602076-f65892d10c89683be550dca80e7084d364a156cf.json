@@ -1,0 +1,91 @@
+{
+  "commit": "f65892d10c89683be550dca80e7084d364a156cf",
+  "commits": [
+    {
+      "author_email_sha256": "2ec9846aa81c35983fbe8f05ca33e064fdac37cd1a375bb7a60646bcb0575826",
+      "author_name_declared": "JORGE FRANCISCO PAREDES",
+      "authored_at_declared": "2026-11-13T10:57:33-08:00",
+      "sha": "f65892d10c89683be550dca80e7084d364a156cf",
+      "subject": "Fix Python escape sequences in IP SHIELD workflow"
+    },
+    {
+      "author_email_sha256": "2ec9846aa81c35983fbe8f05ca33e064fdac37cd1a375bb7a60646bcb0575826",
+      "author_name_declared": "JORGE FRANCISCO PAREDES",
+      "authored_at_declared": "2026-11-13T10:54:04-08:00",
+      "sha": "6c3459fa6dd8bc930c019dbf3155908b79007bb8",
+      "subject": "Document AEGIS IP SHIELD provenance workflow"
+    },
+    {
+      "author_email_sha256": "2ec9846aa81c35983fbe8f05ca33e064fdac37cd1a375bb7a60646bcb0575826",
+      "author_name_declared": "JORGE FRANCISCO PAREDES",
+      "authored_at_declared": "2026-11-13T10:53:45-08:00",
+      "sha": "61b6907f960ced17e1381e0da9319496f2efb50d",
+      "subject": "Add AEGIS IP SHIELD provenance workflow"
+    },
+    {
+      "author_email_sha256": "6bb137a72157fd57c86562c1cbfa065fab3ee846b98ea99ee8052b91991d3437",
+      "author_name_declared": "Jorge Francisco Paredes Soria",
+      "authored_at_declared": "2025-06-13T04:44:42-07:00",
+      "sha": "3c281e624c161509f33dbc19287229c53f840be0",
+      "subject": "🔥 AZURA Codex: Scrolls Deployed"
+    }
+  ],
+  "file_count_recorded": 6,
+  "file_inventory_truncated_at_25000": false,
+  "files": [
+    {
+      "git_blob_oid": "496523ebf8a2f8179732701a82e626efb6977e8c",
+      "mode": "100644",
+      "path": ".github/workflows/aegis-ip-shield.yml",
+      "sha256": "6b128bd094d276f1cbe06adb086ac00a7489b6131663092ec8ffe077d54ac56b"
+    },
+    {
+      "git_blob_oid": "208002bf8f2fc3fd2701fd9ad4384942b7270e6e",
+      "mode": "100644",
+      "path": "SCROLLS/flame_in_the_depths.md",
+      "sha256": "3e9b989b41447b2971c60d76321ac6fbb2b560e6f040c66ca9d87ad518e3cf39"
+    },
+    {
+      "git_blob_oid": "5c7e7bfb1fd447660ac1acdfd387fb3cecdd982b",
+      "mode": "100644",
+      "path": "SCROLLS/part3_starless_night.md",
+      "sha256": "1ff1699c49c526cad5e31bde232e4bee740c65e80079b98866b06007f25e8f58"
+    },
+    {
+      "git_blob_oid": "aef328411625f4c1394486ffde10c8b7220fb7b6",
+      "mode": "100644",
+      "path": "SCROLLS/twilight_reversal.md",
+      "sha256": "14f8eba3e599009749eb38561c9d63fef5f6cacc0f3c8d55d69b0baa3b360c85"
+    },
+    {
+      "git_blob_oid": "142fe07594bcb1e2a659982f48504ecc156ab0b7",
+      "mode": "100644",
+      "path": "docs/IP_SHIELD_GITHUB.md",
+      "sha256": "1b3d5f528dcc66959b29f71af8f93e991fa31e4f6aa5f92bab5525f745adb4c0"
+    },
+    {
+      "git_blob_oid": "f8f4f750f2dd434bbef28bf850f6799813ec606e",
+      "mode": "100644",
+      "path": "index.html",
+      "sha256": "173fa8b1c2ff915b61b7599e4f3c8b6a19522569c61f0ff609d9bcdf5c7ef9ea"
+    }
+  ],
+  "generated_at_utc_runner_clock": "2026-11-13T19:01:52.640896+00:00",
+  "limits": [
+    "Git author and timestamp fields are declared metadata, not verified identity or trusted time.",
+    "Hashes identify recorded bytes; they do not prove authorship, originality, ownership or infringement.",
+    "The report contains paths and hashes, not source-file contents.",
+    "The runner clock is not a trusted timestamp authority.",
+    "Third-party and joint contributions retain applicable rights and licenses.",
+    "The ledger branch is versioned evidence, not immutable storage.",
+    "Only this repository and triggered refs are covered."
+  ],
+  "manifest_type": "AEGIS_GITHUB_IP_SHIELD_PROVENANCE",
+  "manifest_version": "1.0",
+  "ref": "refs/heads/aegis/ip-shield-bootstrap-2026-11-13",
+  "ref_name": "aegis/ip-shield-bootstrap-2026-11-13",
+  "repository": "irstabyjorge/azura-codex",
+  "tree": "28f931d826fe1713995b619347abbf989f3d6356",
+  "workflow_run_attempt": "1",
+  "workflow_run_id": "43487602076"
+}
